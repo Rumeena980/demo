@@ -1,0 +1,2 @@
+name="rumeena"
+print(name)
